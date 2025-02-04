@@ -1,0 +1,24 @@
+{
+  "name": "task-tracker",
+  "version": "1.0.0",
+  "description": "Task tracker is a project used to track and manage your tasks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidDipi/Task-Tracker.git"
+  },
+  "author": "David Diaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DavidDipi/Task-Tracker/issues"
+  },
+  "homepage": "https://github.com/DavidDipi/Task-Tracker#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "readline": "^1.3.0"
+  }
+}
